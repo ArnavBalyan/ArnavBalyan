@@ -1,5 +1,6 @@
-<!--### Hi there 👋
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Arnav Balyan</h1>
+<h3 align="center">Pursuing Bachelor in Engineering, Computer Science (2022)</h3>
+<h3 align="center">From Netaji Subhas University of Technology</h3>
 <!--
 **ArnavBalyan/ArnavBalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
